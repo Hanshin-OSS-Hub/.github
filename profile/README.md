@@ -41,6 +41,7 @@ README.md에는 다음 정보 포함
 
 정기적으로 Commit & Push 수행하여 Repo를 최신 상태로 유지
 
-5. 문의
+### 5. 문의
 
 Repo 관리와 관련된 문제가 발생하면 Hanshin OSS Hub 관리자에게 문의하세요.
++ Email: hyunahn@hs.ac.kr
