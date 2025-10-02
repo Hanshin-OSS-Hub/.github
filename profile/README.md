@@ -39,19 +39,20 @@ Hanshin-OSS-Hub Organization에서 팀별 Repository 생성
 + 팀원: Write 권한 부여
 
 ### 5. 권장 사항
-README.md에는 다음 정보 포함
-+ 프로젝트 개요
-+ 팀원 명단 및 역할
-+ 실행 방법/환경
++ README.md에는 다음 정보 포함
+    + 프로젝트 개요
+    + 팀원 명단 및 역할
+    + 실행 방법/환경
 
-주요 폴더 구조 예시
-+ /docs   → 프로젝트 문서
-+ /src    → 소스코드
-+ /assets → 이미지/데이터
++ 주요 폴더 구조 예시
+    + /docs   → 프로젝트 문서
+    + /src    → 소스코드
+    + /assets → 이미지/데이터
 
-정기적으로 Commit & Push 수행하여 Repo를 최신 상태로 유지해주세요.
++ 특정 폴더 및 파일을 Git/GitHub 관리 대상에서 제외하고 싶은 경우(예: Unity 프로젝트의 Logs와 같이 자동 생성되는 폴더) .gitignore 파일을 작성하거나 [gitignore 샘플 페이지](https://github.com/github/gitignore)에서 원하는 파일을 다운받아서 Repository 메인 폴더에 저장해주세요.
 
-팀원 구성에 변동이 있는 경우, 팀장이 Member 추가/삭제 및 권한 부여를 수행한 후 관리자 이메일로 변동 사항에 대해 알려주세요.
++ 정기적으로 Commit & Push 수행하여 Repo를 최신 상태로 유지해주세요.
++ 팀원 구성에 변동이 있는 경우, 팀장이 Member 추가/삭제 및 권한 부여를 수행한 후 관리자 이메일로 변동 사항에 대해 알려주세요.
 
 ### 6. 문의
 
